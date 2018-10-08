@@ -248,5 +248,7 @@ $configs = [
     'qrcode' =>"http://m.winguo.com/qrcode?chl=",
 
     //我胡乱添加了一些东西
+
+    //我第二次胡乱添加了一些东西
 ];
 return array_merge($configs, $runtimeConfig);
